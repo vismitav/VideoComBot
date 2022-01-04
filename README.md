@@ -5,7 +5,7 @@
 [![videocombot](https://telegra.ph/file/9ba00f90939c4134d5629.png)](https://t.me/ab_binary)
 
 
-#### The Easy Way
+#### Deploy to Heroku
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Silentzlk/VideoComBot)
 
