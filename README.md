@@ -4,9 +4,6 @@
 
 [![videocombot](https://telegra.ph/file/9ba00f90939c4134d5629.png)](https://t.me/ab_binary)
 
-## HOW TO DEPLOY YOUTUBE TUTORIAL
-
-<a href="https://youtu.be/YEwAN3iTGyE"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 #### The Easy Way
 
