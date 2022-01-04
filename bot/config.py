@@ -12,7 +12,7 @@ class Config(object):
     AUTH_USERS = set(
         int(x) for x in get_config(
             "AUTH_USERS",
-            should_prompt=False
+            should_prompt=True
         ).split()
     )
     # the download location, where the HTTP Server runs
