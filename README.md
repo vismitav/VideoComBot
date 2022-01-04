@@ -2,7 +2,7 @@
 
 ## 🌀 Video Compressor Bot   Product by BINARY Tech
 
-[![videocombot]https://telegra.ph/file/9ba00f90939c4134d5629.png]
+[![videocombot](https://telegra.ph/file/9ba00f90939c4134d5629.png)]
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
