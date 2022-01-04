@@ -47,7 +47,7 @@ help - To know about bot
 ```
 ## CREDITS
 
-[@SpEcHide](https://github.com/spechide/publicleech)
+[@SpEcHide](https://github.com/spechide/publicleech) and [@jijinividcombot](https://github.com/Jijinr/VidComBot)
 
 #### LICENSE
 - GPLv3
