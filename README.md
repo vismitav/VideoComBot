@@ -1,6 +1,6 @@
 ---
 
-## Video Compressor Bot   Product by BINARY Tech
+## 🌀 Video Compressor Bot   Product by BINARY Tech
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
